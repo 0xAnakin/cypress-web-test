@@ -1,0 +1,4 @@
+- install node v18.16.1+
+- execute `npm install` in the projects root directory
+- configure the script by editing `env.json`
+- execute `npm run test`
